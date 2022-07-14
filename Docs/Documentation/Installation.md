@@ -32,5 +32,8 @@ If any updates are added, go back to the base of your own repository, commit and
 
 Composer
 --------
+```
+composer require cakedc/tiny-mce
+```
 
 The plugin also provides a "composer.json" file, to easily use the plugin through the Composer dependency manager.
